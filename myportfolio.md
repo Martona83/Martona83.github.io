@@ -7,3 +7,5 @@ subtitle: Here is a brief summary of things I can help you with or some works I 
 
 Please take whatever you need for your personal use! 
 # Knowledge must be shared!
+
+paginate_path: "/blog/page:num/"
