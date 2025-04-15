@@ -11,7 +11,7 @@ author: Marta Alberola
 navbar-links:
   About Me: "aboutme"
   My Portfolio Page: "myportfolio"
-  My blog: "/Posts"
+  My blog: "/_posts"
 
 ################
 # --- Logo --- #
