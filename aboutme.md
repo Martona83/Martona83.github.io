@@ -1,3 +1,10 @@
+---
+layout: page
+title: About me
+subtitle: A brief personal description
+---
+
+
 # Marta Alberola Martín
 
 ## About me
