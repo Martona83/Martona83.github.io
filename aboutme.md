@@ -58,8 +58,11 @@ Advanced ability to convey complex information clearly to diverse audiences.
 Strong critical thinking and adaptability to overcome project challenges. [cite: 34]
 
 ## **Tech skills** 
+
 **Data Management:** SQL, MongoDB, SPSS 
+
 **Programming:** Python, R 
+
 **Tools:** Microsoft Project, Asana, Trello, Canva 
 
 ## Degrees
