@@ -11,7 +11,7 @@ author: Marta Alberola
 navbar-links:
   About Me: "aboutme"
   My Portfolio Page: "myportfolio"
-  My blog: "/_posts/2026-04-15-Streamlining.md"
+  My blog: "/_posts/2026-04-15-Streamlining"
 
 ################
 # --- Logo --- #
@@ -112,17 +112,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#F0F0F0" 
-text-col: "#36454F" 
-link-col: "#483D8B" 
-hover-col: "#2E294E" 
-navbar-col: "#FFFFFF"
-navbar-text-col: "#36454F"
+page-col: "#FFFFFF"
+text-col: "#222222" 
+link-col: "#29ABE2" 
+hover-col: "#1E8BC3" 
+navbar-col: "#F0F0F0"
+navbar-text-col: "#222222"
 navbar-border-col: "#D3D3D3"
-footer-col: "#FFFFFF"
-footer-text-col: "#696969"
-footer-link-col: "#36454F"
-footer-hover-col: "#2E294E"
+footer-col: "#F0F0F0"
+footer-text-col: "#555555"
+footer-link-col: "#222222"
+footer-hover-col: "#1E8BC3"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
