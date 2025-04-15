@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Streamlining Clinical Trials with Cloud-Based Data Management
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [clinical trials, cloud, data management]
 comments: true
 mathjax: true
 author: Marta Alberola
