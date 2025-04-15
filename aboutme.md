@@ -1,13 +1,10 @@
 ---
 layout: page
-title: About me
+title: Marta Alberola Martín
 subtitle: A brief personal curriculum
 ---
 
-
-# Marta Alberola Martín
-
-## About me
+# About me
 
 Highly motivated and organized healthcare professional with extensive experience in research project management, multidisciplinary team leadership, and the application of innovative solutions in the healthcare sector. Master's Degree in Health Data Science, providing a unique combination of analytical, technical, and communication skills. [Objective: To contribute significantly to the company's success, leveraging expertise and passion for innovation to optimize content review processes and drive valuable solutions for clients.
 
