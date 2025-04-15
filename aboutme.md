@@ -44,17 +44,20 @@ Transplant Services Foundation, Hospital Clínic de Barcelona | 2007 - 2012
 
 ## **Key habilities**
 
-### **Project Management**: Proficient in Asana, Trello, and Agile methodologies.
+### **Project Management** 
+Proficient in Asana, Trello, and Agile methodologies.
+### **Health Data Analysis** Experienced in SPSS, R, and Python for data analysis and visualization.
 
-### **Health Data Analysis**: Experienced in SPSS, R, and Python for data analysis and visualization.
+### **Team's coordination**
+Skilled in leading multidisciplinary teams in high-pressure environments.
 
-### **Team's coordination**: Skilled in leading multidisciplinary teams in high-pressure environments.
+### **Communication habilities**
+Advanced ability to convey complex information clearly to diverse audiences.
 
-### **Communication habilities**: Advanced ability to convey complex information clearly to diverse audiences.
+### **Problem solving minded**
+Strong critical thinking and adaptability to overcome project challenges. [cite: 34]
 
-### **Problem solving minded**: Strong critical thinking and adaptability to overcome project challenges. [cite: 34]
-
-## **Tech skills**: 
+## **Tech skills** 
 **Data Management:** SQL, MongoDB, SPSS 
 **Programming:** Python, R 
 **Tools:** Microsoft Project, Asana, Trello, Canva 
