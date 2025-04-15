@@ -1,3 +1,18 @@
+---
+layout: post
+title: Streamlining Clinical Trials with Cloud-Based Data Management
+subtitle: There's lots to learn!
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+mathjax: true
+author: Marta Alberola
+---
+
+
+
+
 # Streamlining Clinical Trials with Cloud-Based Data Management
 
 Clinical trials are the cornerstone of bringing new medical treatments to patients. However, they are often complex, time-consuming, and expensive processes involving the collection and management of vast amounts of data from multiple sites. Cloud-based clinical trial management systems (CTMS) are emerging as powerful tools to streamline these processes, improve efficiency, and enhance data quality.
