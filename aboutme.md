@@ -1,95 +1,94 @@
 # Marta Alberola Martín
 
-## Resum Professional
+## About me
 
-Highly motivated and organized healthcare professional with extensive experience in research project management, multidisciplinary team leadership, and the application of innovative solutions in the healthcare sector. [cite: 16, 17] Master's Degree in Health Data Science, providing a unique combination of analytical, technical, and communication skills. [cite: 16] Objective: To contribute significantly to EVERSANA's success, leveraging expertise and passion for innovation to optimize content review processes and drive valuable solutions for clients.
+Highly motivated and organized healthcare professional with extensive experience in research project management, multidisciplinary team leadership, and the application of innovative solutions in the healthcare sector. Master's Degree in Health Data Science, providing a unique combination of analytical, technical, and communication skills. [Objective: To contribute significantly to the company's success, leveraging expertise and passion for innovation to optimize content review processes and drive valuable solutions for clients.
 
-## Informació de Contacte
+## Contact information
 
-* **Telèfon:** +34 646 66 11 19
-* **Correu electrònic:** [marta.alberola@gmail.com](mailto:marta.alberola@gmail.com)
+* **e-mail:** [marta.alberola@gmail.com](mailto:marta.alberola@gmail.com)
 * **LinkedIn:** [marta-alberola-ehealth](https://www.linkedin.com/in/marta-alberola-ehealth/)
 
-## Formació Acadèmica
+## Degrees
 
-* **Màster Internacional en Ciència de Dades de la Salut** | Universitat Rovira i Virgili | En curs [cite: 21]
-* **Màster en Salut Digital** | UOC | 2023-2024 [cite: 20, 21]
-* **Especialització en Anestesiologia i Reanimació** | Universitat Autònoma de Barcelona | 2013-2018 [cite: 20]
-* **Màster en Bioinformàtica i Bioestadística** | UOC | 2012-2013 [cite: 19]
-* **Postgrau en Innovació i Recerca en Ciències de la Salut** | Universitat Autònoma de Barcelona | 2015 [cite: 19, 20]
-* **Llicenciatura en Medicina** | University of Barcelona | 2001-2007 [cite: 18]
+* **Màster Internacional en Ciència de Dades de la Salut** | Universitat Rovira i Virgili | En curs 
+* **Màster en Salut Digital** | UOC | 2023-2024 
+* **Especialització en Anestesiologia i Reanimació** | Universitat Autònoma de Barcelona | 2013-2018 
+* **Màster en Bioinformàtica i Bioestadística** | UOC | 2012-2013 
+* **Postgrau en Innovació i Recerca en Ciències de la Salut** | Universitat Autònoma de Barcelona | 2015 
+* **Llicenciatura en Medicina** | University of Barcelona | 2001-2007 
 
-## Experiència Professional
+## Professional experience
 
-### Metge Especialista en Anestesiologia i Reanimació
+### Anesthesiology Medical Doctor
 
-Fundació Privada Hospital Asil de Granollers | Granollers | 2018 - Actualitat [cite: 22]
+Fundació Privada Hospital Asil de Granollers | Granollers | 2018 - Actualitat
 
-* Led the implementation and development of new hospital protocols and research initiatives. [cite: 22]
-* Coordinated cross-disciplinary teams for trauma and cardiac arrest protocols. [cite: 23]
-* Supervised and mentored junior anesthesiologists and master's students, fostering professional growth. [cite: 23]
-* Delivered high-quality medical care and streamlined workflows for urgent and elective cases. [cite: 24]
+* Led the implementation and development of new hospital protocols and research initiatives. 
+* Coordinated cross-disciplinary teams for trauma and cardiac arrest protocols. [
+* Supervised and mentored junior anesthesiologists and master's students, fostering professional growth. 
+* Delivered high-quality medical care and streamlined workflows for urgent and elective cases. 
 
-### Metge Resident en Anestesiologia i Reanimació
+### Anesthesiology's Resident Medical Doctor
 
-Consorci Sanitari del Maresme | Hospital de Mataró | 2013 - 2018 [cite: 25, 26]
+Consorci Sanitari del Maresme | Hospital de Mataró | 2013 - 2018 
 
-* Directed research on postoperative pain in knee prostheses, earning a hospital research grant. [cite: 26, 27]
-* Rotated through specialized units, including pediatrics, cardiac surgery, and pain management. [cite: 27]
+* Directed research on postoperative pain in knee prostheses, earning a hospital research grant. 
+* Rotated through specialized units, including pediatrics, cardiac surgery, and pain management. 
 
-### Coordinador de Trasplantaments
+### Trasplant's coordinator
 
-Transplant Services Foundation, Hospital Clínic de Barcelona | 2007 - 2012 [cite: 28, 29]
+Transplant Services Foundation, Hospital Clínic de Barcelona | 2007 - 2012 
 
-* Managed organ and tissue extraction teams, ensuring efficiency and compliance with regulations. [cite: 29]
-* Conducted empathetic communication with donor families during critical moments. [cite: 30]
+* Managed organ and tissue extraction teams, ensuring efficiency and compliance with regulations. 
+* Conducted empathetic communication with donor families during critical moments.
 
-## Habilitats Clau
+## Key habilities
 
-### Gestió de Projectes
+### Project Management
 
 * Proficient in Asana, Trello, and Agile methodologies. [cite: 30]
 
-### Anàlisi de Dades de Salut
+### Health Data Analysis
 
 * Experienced in SPSS, R, and Python for data analysis and visualization. [cite: 31]
 
-### Coordinació d'Equips
+### Team's coordination
 
 * Skilled in leading multidisciplinary teams in high-pressure environments. [cite: 32]
 
-### Comunicació
+### Communication habilities
 
 * Advanced ability to convey complex information clearly to diverse audiences. [cite: 33]
 
-### Resolució de Problemes
+### Problem solving minded
 
 * Strong critical thinking and adaptability to overcome project challenges. [cite: 34]
 
-## Habilitats Tècniques
+## Tech skills
 
 * **Data Management:** SQL, MongoDB, SPSS [cite: 37]
 * **Programming:** Python, R [cite: 37]
 * **Tools:** Microsoft Project, Asana, Trello, Canva [cite: 37]
 
-## Formació Complementària
+## Complementary Formation
 
 * Agile Project Management with Scrum | UCF | 50 hours [cite: 34, 35]
 * Innovation in Healthcare Processes | UCF | 3.5 ECTS [cite: 35]
 * Digital Transformation of Health | IFMiL | 3 ECTS [cite: 35, 36]
 * Emotional Intelligence | UCF | 3 ECTS [cite: 36]
 
-## Idiomes
+## LAnguages
 
-* Català: Natiu
-* Castellà: Natiu
-* Anglès: Avançat (C1)
+* Catalan: Native
+* Spanish: Native
+* English: Advanced (C1)
 
-## Aconsecucions i Certificacions
+## Certifications and Grants
 
 * Hospital Research Grant | ACMCB | 2015 [cite: 36, 37]
 * Advanced Life Support Certification | CCR | 2018 [cite: 37]
 
-## Objectius Professionals
+## Professional Objectives
 
 To contribute to innovative projects at Persona, applying my project management expertise, health data science background, and leadership skills to support high-impact organizations in achieving their goals.
